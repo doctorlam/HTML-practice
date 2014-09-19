@@ -1,4 +1,4 @@
-<!DoCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
@@ -11,41 +11,42 @@
     </head>
     <body>
         <h1> HTML Homework</h1>
-            <h3> Exercise </h3>
-                <p> This is a homework exercise to <b>demonstrate</b> our familiarity with<i>HTML tags</i>. What follows are examples of <u>HTML tags</u> in practice</p>
-            <h3> Links </h3>
-                <p> I learned most of my current HTML skills through the website <a href="http://www.codeacademy.com"> Code Academy </a>, and I am on my way to mastering HTML and CSS. </p>
-                <h3>Me Myself & I </h3>
-                <p> To describe myself, I will use a list. I am lived in the following countries:
-                <ul>
-                    <li> England </li>
-                    <li> Australia </li>
-                    <li> United States of America </li>
-                </ul>
-                <p> I am also taking four classes this semester:
-                <ol>
-                    <li> Digital Literacies </li>
-                    <li> Texas Slavery </li>
-                    <li> Style and Technical Writing</li>
-                    <li> Principles of Technical Writing </li>
-                </ol>
-        <h3> Pictures </h3>
-                <p> One final area of HTML tags I have learned involve pictures, or images. Below is a picture of our cats that I think are completely adorable:<br> <center> <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10486199_10152203931356993_1581092121409389175_n.jpg?oh=9d7a7f3234e5a00c4cb9680320e480ba&oe=54C5E35E&__gda__=1418139169_0bc34984acadffcf42f3497ceee8e8bb" alt="My kitties" height="500" width="400" /> </center>
-<align="left"><h3>Contact Information</h3>
-                <p> If you would like to find out more about me, subscribe!
-    <form action="mail2.php" method="post">
-    <b>To subscribe, enter your email address:</b><br>
-    <input type="text" name="email address" size=48><br>
-    <i>Please leave a comment! </i> <br>
-    <textarea cols=50 rows=10 name="Your message"> Type your message here </textarea><br>
-    <h3>Questions</h3>
-    <p>Please answer the questions below:</p>
-    <h4>Would you like to see more pages like this?</h4>
-    <input type="radio" name="Opinion" value="yes"/>Yes, give me more!
-    <input type="radio" name="Opinion" value="no"/>No, give it up! <br>
-    <br>
-    <input type="hidden" name="Submitted" value="True" />
-    <input type="submit" value="Send" />
-    </form>
-</body>
+		<h3> Exercise </h3>
+<p> This is a homework exercise to <b>demonstrate</b> our familiarity with<i>HTML tags</i>. What follows are examples of <u>HTML tags</u> in practice</p>
+		<h3> Links </h3>
+                	<p> I learned most of my current HTML skills through the website <a href="http://www.codeacademy.com"> Code Academy </a>, and I am on my way to mastering HTML and CSS. </p>
+		<h3>Me Myself & I </h3>
+                	<p> To describe myself, I will use a list. I am lived in the following countries:
+                		<ul>
+                    			<li> England </li>
+                    			<li> Australia </li>
+                    			<li> United States of America </li>
+		                </ul>
+                	<p> I am also taking four classes this semester:
+				<ol>
+					<li> Digital Literacies </li>
+					<li> Texas Slavery </li>
+					<li> Style and Technical Writing</li>
+					<li> Principles of Technical Writing </li>
+				</ol>
+		<h3> Pictures </h3>
+                	<p> One final area of HTML tags I have learned involve pictures, or images. Below is a picture of our cats that I think are completely adorable:<br> <center> <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10486199_10152203931356993_1581092121409389175_n.jpg?oh=9d7a7f3234e5a00c4cb9680320e480ba&oe=54C5E35E&__gda__=1418139169_0bc34984acadffcf42f3497ceee8e8bb" alt="My kitties" height="500" width="400" /> </center>
+<align="left">
+		<h3>Contact Information</h3>
+                	<p> If you would like to find out more about me, subscribe!
+			    <form action="mail2.php" method="post">
+			    	<b>To subscribe, enter your email address:</b><br>
+					<input type="text" name="email address" size=48><br>
+				<i>Please leave a comment! </i> <br>
+					<textarea cols=50 rows=10 name="Your message"> Type your message here </textarea><br>
+		    <h3>Questions</h3>
+			<p>Please answer the questions below:</p>
+			<h4>Would you like to see more pages like this?</h4>
+				    <input type="radio" name="Opinion" value="yes"/>Yes, give me more!
+				    <input type="radio" name="Opinion" value="no"/>No, give it up! <br>
+				    <br>
+				    <input type="hidden" name="Submitted" value="True" />
+				    <input type="submit" value="Send" />
+			    </form>
+	</body>
 </html>
