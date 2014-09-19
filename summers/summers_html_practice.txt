@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Summers' practice page </title>
+	</head>
+	
+	<body>
+		<h1>this is the biggest heading</h1>
+			<p>this is text under the biggest heading</p>
+		<h6>this is the smallest heading</h6>
+			<p>this is the text under the smallest heading</h6>
+			<img src="http://www.unt.edu/images/features/2014_diaz.jpg" />
+			<a href="http://www.codecademy.com">good practice on this website</a>
+
+
+	</body>
+
+</html>
