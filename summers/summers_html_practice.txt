@@ -1,17 +1,55 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Summers' practice page </title>
+		<title>Chickasaw Fundraiser</title>
 	</head>
 	
 	<body>
-		<h1>this is the biggest heading</h1>
-			<p>this is text under the biggest heading</p>
-		<h6>this is the smallest heading</h6>
-			<p>this is the text under the smallest heading</h6>
-			<img src="http://www.unt.edu/images/features/2014_diaz.jpg" />
-			<a href="http://www.codecademy.com">good practice on this website</a>
+		<h1>Chickasaw Fundraiser Event: Monthly Indian Taco Sale</h1>
+			<p>Every month, the Chickasaw Senior Center holds a fundraising event: an Indian taco sale. The event is open to the public and every month more than 200 hundred people attend. Most of these customers live in Duncan, Oklahoma, but several of them come from neighboring towns. This database shows the details of the event.</p>
+		
 
+		<h3>Schedule</h3>
+			<p>The taco sell occurs monthly, except during the holidays mentioned below.</p>
+				<ul>
+					<li>Date: 2nd Friday of every month</li>
+					<li>Time: 10:30 am until 1:30 pm</li>
+				</ul>
+
+		<h3>Cost</h3>
+			<p>Each meal costs $7 and includes:</p>		
+				<ul>
+					<li>Indian taco (one). These authentic Indian tacos are made with fried bread, ground beef, pinto beans, lettuce, tomatoes, onions, and cheddar cheese.</li>
+					<li>Dessert (one). Customers choose from a variety of homemade desserts, including pie, cake, cobbler, brownies.</li> 
+					<li>Drink (unlimited). Customers choose from tea, coffee, and water.</li>
+					<li>Parking. Ample parking is available in the field behind the Center.</li>
+				</ul>
+		<h3>Volunteers</h3>
+			<p>Members of the Center volunteer to organize and run the fundraiser. All members are welcome to volunteer for the event.</p>
+		<h5>How do members volunteer?</h5>	
+				<ul>
+					<li>Contact Dina Smith at the main office. (Chickasaw Senior Center, 1909 W. Plato Drive, Duncan, OK.)</li>
+					<li>Get tested for TB and submit proof to the main office.</li>
+					
+					<li>Attend the monthly volunteer meeting.</li>
+					<li>Sign-up for a position on the Volunteer Sheet.</li>
+				</ul>
+		<h5>What should volunteers expect?</h5>
+			<p>Volunteers work in shifts to cover a variety of positions.The exact timeframes depend on the position selected. Volunteers work within the hours of 7 am and 2:30 pm (on the Friday of the event).</p>
+				<ul>
+					<li>Shifts usually last 2 hours. Many volunteers sign up for multiple shifts.</li>
+					<li>Positions range from kneeding dough to busing tables. Most positions involve standing, but a few positions are sit-down.</li>
+				</ul>
+
+		<h6>Find Out More about the Chickasaw Center</h6>
+			<p>The Center offers services, entertainment, and meals to Native Americans who are official members of any tribe.</p>
+				<img src="https://www.chickasaw.net/getattachment/c207e4dc-c2af-4686-830c-f0cd7e451df0/.aspx?maxsidesize=360" />
+				
+				<a href="http://www.chickasaw.net/Our-Nation/Find-Locations/Duncan-Senior-Center.aspx">Click here to open the website for the Chickasaw Center.</a>
+		<footer>
+			<h3>This is the footer.</h3>
+		
+		</footer>
 
 	</body>
 
