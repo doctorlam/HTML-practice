@@ -1,6 +1,25 @@
 <!DOCTYPE html>
-	<html>
-	<head>
-		<title> This is my practice HTML page </title>
-	</head>
-	</html>
+<html>
+<head>
+	<title> Have fun with HTML </title>
+	<body>
+		<h1> This is my sample HTML </h1>
+		<p> HTML is fun to learn and this is my sample paragraph! To help us become more familiar with the idea of tags and HTML, we are creating this sampl document. 
+		HTML is great for the following things:</p>
+		<ul>
+		<li> Formatting that awesome document
+		<li> Describe what's on that page of yours
+		<li> Customize a super cool web page
+		</ul>
+
+		<p> Oh look! A second paragraph. </p>
+
+		<h1> HTML is fun for everyone </h1>
+		<p> Once you learn the basics, HTML is fun to play around with. </p>
+		<a href="http://courses.christopherylam.com/5191/schedule.html"> Our tight schedule </a>
+		<p> Don't you think everyone should learn these wonderful skills? </p>
+
+		<img src="http://en.wikipedia.org/wiki/University_of_North_Texas#mediaviewer/File:University_of_North_Texas_seal.png" />
+	</body>	
+</head>
+</html>
