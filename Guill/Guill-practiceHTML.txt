@@ -1,17 +1,41 @@
-<!DOCTEXT html>
+<!DOCTYPE html>
 <html>
 
 	<head>
-		<h1>Practice HTML</h1> 
-		<h2>By James Dallas Guill</h2>
+		<title>Practice HTML</title> 
+		<h3>By James Dallas Guill</h3>
 	</head>
 
 <body>
-<p> This is a paragraph for my practice HTML document. </p>
+<p> This is the first paragraph for my practice HTML document. </p>
 
-<p> This is the second paragraph for my HTML document. 
+<p><b> This is the second paragraph for my HTML document. 
 <a href="http://www.whitestripes.com”>This is still one of my favorite band websites.</a>
-</p>
+</p> </b>
+
+<p><img src ="https://longren.io/wp-content/uploads/2014/03/HTML.jpg" /></a>
+<p>The image above is brought to you by our friends at: https://longren.io/ </p>
+
+*Join Our Mailing List*
+<form action="/somedirectory/somformprocessingscript.php" method="post">
+	<div>Name: <input type="text" name=“name” /></div>
+	<div>Email: <input type="text" name=“email” /></div>
+	<div><input type="submit" /></div>
+</form>
+
+
+<h3>Contact Info</h3>
+<p><address> Dallas Guill</p> 
+<p> <i>P.O. Box 51205 Denton, TX 76201</i></p></address>
+</body>
+
+<body>
+<h4><b>Words of Wisdom</b></h4>
+<blockquote cite="http://www.brainyquote.com/quotes/topics/topic_computers.html/">
+	<p>I think it's fair to say that personal computers have become the most empowering tool we've ever created. They're tools of communication, they're tools of creativity, and they can be shaped by their user. -Bill Gates
+</blockquote>
+<table>
+</table>
 
 </body>
 
