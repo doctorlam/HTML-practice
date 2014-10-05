@@ -2,8 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
-		    <style type="text/css">h1 {color:purple} h3{color:green} </style>
-		    <link rel="stylesheet" type "text/css" href="Morris.CSShwk.css" />
+		    <link rel="stylesheet" type "text/css" href="Morris_stylesheet.css" />
 		    <meta name="description" content="Welcome to English's Home on the Web" />
 		    <meta name="keywords" content="HTML, tagging, CSS, Technical Communication" />
 		    <meta name="author" content="Andrew Morris" />
@@ -12,7 +11,7 @@
     <body>
         <h1> HTML Homework</h1>
 		<h3> Exercise </h3>
-<p> This is a homework exercise to <b>demonstrate</b> our familiarity with<i>HTML tags</i>. What follows are examples of <u>HTML tags</u> in practice</p>
+<p> This is a homework exercise to <strong>demonstrate</strong> our familiarity with <em>HTML tags</em>. What follows are examples of <u>HTML tags</u> in practice</p>
 		<h3> Links </h3>
                 	<p> I learned most of my current HTML skills through the website <a href="http://www.codeacademy.com"> Code Academy </a>, and I am on my way to mastering HTML and CSS. </p>
 		<h3>Me Myself & I </h3>
